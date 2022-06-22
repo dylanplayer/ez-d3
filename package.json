@@ -4,7 +4,7 @@
   "description": "D3 Component Library",
   "scripts": {
     "rollup": "rollup -c",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "build": "rollup -c"
   },
   "repository": {
